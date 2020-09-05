@@ -34,6 +34,7 @@ about:
   home: https://github.com/scour-project/scour
   license: Apache-2.0
   license_family: Apache
+  license_file: LICENSE
   summary: Scour SVG Optimizer
   doc_url: https://github.com/scour-project/scour
   dev_url: https://github.com/scour-project/scour
