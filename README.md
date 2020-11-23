@@ -5,11 +5,13 @@ Home: https://github.com/scour-project/scour
 
 Package license: Apache-2.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/scour-feedstock/blob/master/LICENSE.txt)
 
 Summary: Scour SVG Optimizer
 
+Development: https://github.com/scour-project/scour
 
+Documentation: https://github.com/scour-project/scour
 
 Current build status
 ====================
